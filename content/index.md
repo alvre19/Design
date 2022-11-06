@@ -16,4 +16,4 @@ Jag har tidigare jobbat som konstruktör och produktutvecklare.
 Som produktutvecklare har förstått hur viktigt det är med god design för både funktionalitet och kundupplevelse. Och nu blir det interessant att lära sig nya teknologier och förstå hur design fungerar ihop med webbutveckling.    
 
 
-![Bild på Alvaro](%base_url%/image/A_Rened.jpg)
+![Bild på Alvaro](%base_url%/assets/img/A_Rened.jpg)
