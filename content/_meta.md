@@ -4,5 +4,8 @@ Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/alvre19/Design
-      icon: github
+      icon: fab fa-github
+    - title: Link till twitter.
+      url: https://twitter.com/
+      icon: fab fa-twitter
 ---
