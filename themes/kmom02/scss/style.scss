@@ -3,6 +3,7 @@
 @import 'typography';
 @import 'blockquotes';
 @import 'code';
+@import 'technologies';
 @import '../../shared/fontawesome/scss/fontawesome';
 $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
@@ -20,7 +21,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -35,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .title {
     text-align: center;
     max-width: 67rem;
-    margin: 1em 5em 1em 5em;
+    margin: 1em 5em;
     padding-left: 1em;
 }
 
@@ -53,7 +59,7 @@ p {
     right: 0;
     height: auto;
     width: 100%;
-    padding: 40px 0 40px 0;
+    padding: 40px 0;
 }
 
 .container p {
@@ -62,10 +68,18 @@ p {
 
 .fab {
     list-style: none;
-    text-decoration:none; 
-    float:right;
+    text-decoration: none;
+    float: right;
     position: relative;
     font-size: 2rem;
     width: 45px;
     margin: 10px;
+}
+
+.main-image {
+    max-width: 1000px;
+}
+
+.my-picture {
+    max-width: 400px;
 }

@@ -3,7 +3,9 @@
         {% if pages["_meta"].meta.logo %}
         <div class="logo">
             <a href="{{ base_url }}">
-                <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="" />
+                <div class="mainImage">
+                    <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" style="width: 100%;" alt="" />
+                </div>
             </a>
         </div>
         {% endif %}
