@@ -138,8 +138,7 @@
     }
     
     .tech-content {
-        grid-row: 2;
-        grid-column-start: 1;
+        display: none;
     }
 
     .technologies h1 {
@@ -148,7 +147,7 @@
     }
 
     .technologies h2 {
-        grid-row: 3;
+        grid-row: 2;
         grid-column-start: 1;
     }
 
