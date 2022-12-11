@@ -12,12 +12,12 @@ template: technologies
         <li><a href="%base_url%?technology/javascript">JavaScript</a></li>
         <li><a href="%base_url%?technology/php">PHP</a></li>
         <li><a href="%base_url%?technology/python">Python</a></li>
-        <li><a href="%base_url%?technology/sqlite">aSQLite</a></li>
+        <li><a href="%base_url%?technology/sqlite">SQLite</a></li>
     </ul>
 </div>
 
 
-# CSS
+## CSS
 
 Cascading Style Sheets är språk för att beskriva utseende av element i ett markup language till exempel HTML. CSS är en av tre teknologier som utgör fundamentet för webben.
 

@@ -12,11 +12,11 @@ template: technologies
         <li><a href="%base_url%?technology/javascript">JavaScript</a></li>
         <li><a href="%base_url%?technology/php">PHP</a></li>
         <li><a href="%base_url%?technology/python">Python</a></li>
-        <li><a href="%base_url%?technology/sqlite">aSQLite</a></li>
+        <li><a href="%base_url%?technology/sqlite">SQLite</a></li>
     </ul>
 </div>
 
-# Git
+## Git
 
 Git är ett distribuerat versionshanteringssystem som skapades 2005 av Linus Torvalds. Git skapades för att hantera ändringar för Linux-kärnan.
 

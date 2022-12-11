@@ -12,11 +12,11 @@ template: technologies
         <li><a href="%base_url%?technology/javascript">JavaScript</a></li>
         <li><a href="%base_url%?technology/php">PHP</a></li>
         <li><a href="%base_url%?technology/python">Python</a></li>
-        <li><a href="%base_url%?technology/sqlite">aSQLite</a></li>
+        <li><a href="%base_url%?technology/sqlite">SQLite</a></li>
     </ul>
 </div>
 
-# HTML
+## HTML
 
 HyperText Markup Language (HTML) utgör tillsammans med HyperText Transfer Protocol (HTTP) grunden i webben. Webbsidor skrivs i HTML och skickas sedan över internet med hjälp av HTTP.
 

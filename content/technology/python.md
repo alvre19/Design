@@ -12,11 +12,11 @@ template: technologies
         <li><a href="%base_url%?technology/javascript">JavaScript</a></li>
         <li><a href="%base_url%?technology/php">PHP</a></li>
         <li><a href="%base_url%?technology/python">Python</a></li>
-        <li><a href="%base_url%?technology/sqlite">aSQLite</a></li>
+        <li><a href="%base_url%?technology/sqlite">SQLite</a></li>
     </ul>
 </div>
 
-# Python
+## Python
 
 Python är ett programmeringsspråk som lanserades 1991 av Guido van Rossum. Programmeringsspråket är dynamiskt typad och betecknas som ett generellt programmeringsspråk då det kan tillämpas inom många domäner.
 

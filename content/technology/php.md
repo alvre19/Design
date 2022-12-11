@@ -12,11 +12,11 @@ template: technologies
         <li><a href="%base_url%?technology/javascript">JavaScript</a></li>
         <li><a href="%base_url%?technology/php">PHP</a></li>
         <li><a href="%base_url%?technology/python">Python</a></li>
-        <li><a href="%base_url%?technology/sqlite">aSQLite</a></li>
+        <li><a href="%base_url%?technology/sqlite">SQLite</a></li>
     </ul>
 </div>
 
-# PHP
+## PHP
 
 PHP är ett populärt skriptspråk som främst används för att skapa webbplatser med dynamiskt innehåll. PHP är det mest använda server-side programmeringsspråk på webben med uppåt 80% av alla webbplatser som använder det.
 
